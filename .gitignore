@@ -380,5 +380,4 @@ out/extension.js.map
 *.exe
 
 # Project
-temp*.bmp
-*.exe
+*.bmp
